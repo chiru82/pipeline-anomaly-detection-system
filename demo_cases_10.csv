@@ -1,0 +1,11 @@
+demo_case_id,flow_rate_l_min,inlet_pressure_bar,outlet_pressure_bar,pipe_diameter_mm,pipe_length_m,fluid_type,simulator_reference_class_id,simulator_reference_class,case_origin
+DEMO-01,105.484701715,9.626462,9.192186,30.88861074,19.948119,Water,0,Normal,new simulated scenario; not a row in the 65k files
+DEMO-02,106.231216353,9.626462,9.192186,30.88861074,19.948119,Water,1,Minor Leakage,new simulated scenario; not a row in the 65k files
+DEMO-03,108.937382603,9.626462,9.192186,30.88861074,19.948119,Water,2,Major Leakage,new simulated scenario; not a row in the 65k files
+DEMO-04,76.012979072,9.626462,9.192186,30.88861074,19.948119,Water,3,Partial Blockage,new simulated scenario; not a row in the 65k files
+DEMO-05,0.0,9.626462,9.192186,30.88861074,19.948119,Water,4,Complete Blockage,new simulated scenario; not a row in the 65k files
+DEMO-06,13.324030452,10.964597,10.724817,25.43528306,41.311882,Oil,0,Normal,new simulated scenario; not a row in the 65k files
+DEMO-07,13.554294709,10.964597,10.724817,25.43528306,41.311882,Oil,1,Minor Leakage,new simulated scenario; not a row in the 65k files
+DEMO-08,14.459177972,10.964597,10.724817,25.43528306,41.311882,Oil,2,Major Leakage,new simulated scenario; not a row in the 65k files
+DEMO-09,13.149736079,10.964597,10.724817,25.43528306,41.311882,Oil,3,Partial Blockage,new simulated scenario; not a row in the 65k files
+DEMO-10,0.0,10.964597,10.724817,25.43528306,41.311882,Oil,4,Complete Blockage,new simulated scenario; not a row in the 65k files
