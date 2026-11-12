@@ -17,7 +17,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, precision_score, r
 from xgboost import XGBClassifier
 
 
-ROOT = Path(__file__).resolve().parents
+ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 import generate_pipeline_splits as simulator  # noqa: E402
 
